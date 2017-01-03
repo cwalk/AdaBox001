@@ -5,7 +5,7 @@ Example projects that I created based on components received with Adafruit's Ada
 
 YouTube Playlist : https://www.youtube.com/watch?v=AMY5mPyg-wQ
 
-## Temperature LCD
+## Temperature LCD (tempLCD)
 
 Using a temperature sensor and an LCD display, I display the temperature! Potentiometer is only to increase/decrease brightness of backlit LCD.
 
@@ -53,7 +53,7 @@ Below is a diagram:
 
 YouTube: 
 
-## Sound from Light
+## Sound from Light (lightSounds)
 
 ### Diagram
 
@@ -63,7 +63,7 @@ YouTube:
 
 YouTube: 
 
-## Light from Flex sensor
+## Light from Flex sensor (flexLED)
 
 ### Diagram
 
@@ -73,7 +73,7 @@ YouTube:
 
 YouTube: 
 
-## RGB LED Potentiometer
+## RGB LED Potentiometer (rgbPotentiometer)
 
 ### Diagram
 
@@ -83,7 +83,7 @@ YouTube:
 
 YouTube: 
 
-## Neopixel Featherwing Animations
+## Neopixel Featherwing Animations (neopixelButtonCycle)
 
 ### Diagram
 
