@@ -3,7 +3,7 @@ Example projects that I created based on components received with Adafruit's Ada
 
 ## YouTube
 
-YouTube Playlist : 
+YouTube Playlist : https://www.youtube.com/playlist?list=PLgAD2y-6wgwoaIJlPjkwUR0mKumRaz1oe
 
 ## Temperature LCD (tempLCD)
 
