@@ -77,7 +77,7 @@ YouTube:
 
 ### Diagram
 
-![Diagram](/test.png?raw=true "Diagram")
+![Diagram](/rgbPotentiometer/rgbPotentiometerCircuit.png?raw=true "Diagram")
 
 ### YouTube
 
@@ -87,7 +87,7 @@ YouTube:
 
 ### Diagram
 
-![Diagram](/test.png?raw=true "Diagram")
+![Diagram](/neopixelButtonCycle/neopixelButtonCycleCircuit.png?raw=true "Diagram")
 
 ### YouTube
 
