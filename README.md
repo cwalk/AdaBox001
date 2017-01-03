@@ -57,7 +57,7 @@ YouTube:
 
 ### Diagram
 
-![Diagram](/lightSoundsCircuit.jpg?raw=true "Diagram")
+![Diagram](/lightSounds/lightSoundsCircuit.jpg?raw=true "Diagram")
 
 ### YouTube
 
@@ -67,7 +67,7 @@ YouTube:
 
 ### Diagram
 
-![Diagram](/flexLEDCircuit.png?raw=true "Diagram")
+![Diagram](/flexLED/flexLEDCircuit.png?raw=true "Diagram")
 
 ### YouTube
 
