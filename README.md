@@ -3,7 +3,7 @@ Example projects that I created based on components received with Adafruit's Ada
 
 ## YouTube
 
-YouTube Playlist : https://www.youtube.com/watch?v=AMY5mPyg-wQ
+YouTube Playlist : 
 
 ## Temperature LCD (tempLCD)
 
@@ -51,7 +51,7 @@ Below is a diagram:
 
 ### YouTube
 
-YouTube: 
+YouTube: https://www.youtube.com/watch?v=urYcSrP3Dhc&feature=youtu.be
 
 ## Sound from Light (lightSounds)
 
@@ -61,7 +61,7 @@ YouTube:
 
 ### YouTube
 
-YouTube: 
+YouTube: https://www.youtube.com/watch?v=1TNp_1lK8Ek&feature=youtu.be
 
 ## Light from Flex sensor (flexLED)
 
@@ -71,7 +71,7 @@ YouTube:
 
 ### YouTube
 
-YouTube: 
+YouTube: https://www.youtube.com/watch?v=TWC42rp0Sxs&feature=youtu.be
 
 ## RGB LED Potentiometer (rgbPotentiometer)
 
