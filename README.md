@@ -47,7 +47,7 @@ Temperature Sensor (TMP36):
 
 Below is a diagram:
 
-![Diagram](/tempLCD/tempCircuit.jpg?raw=true "Diagram")
+![Diagram](/tempLCD/tempLCDCircuit.jpg?raw=true "Diagram")
 
 ### YouTube
 
@@ -57,7 +57,7 @@ YouTube:
 
 ### Diagram
 
-![Diagram](/test.png?raw=true "Diagram")
+![Diagram](/lightSoundsCircuit.jpg?raw=true "Diagram")
 
 ### YouTube
 
@@ -67,7 +67,7 @@ YouTube:
 
 ### Diagram
 
-![Diagram](/test.png?raw=true "Diagram")
+![Diagram](/flexLEDCircuit.png?raw=true "Diagram")
 
 ### YouTube
 
